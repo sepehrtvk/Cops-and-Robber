@@ -1,0 +1,3 @@
+/Users/sepehr/Desktop/Dozd_o_Police/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sepehr/Desktop/Dozd_o_Police/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sepehr/Desktop/Dozd_o_Police/cmake-build-debug/CMakeFiles/Dozd_o_Police.dir
